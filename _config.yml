@@ -1,0 +1,58 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Michael
+description: > # this means to ignore newlines until "baseurl:"
+repository: https://github.com/wanghungjen/wanghungjen.github.io
+baseurl: # the subpath of your site, e.g. /blog
+url: https://wanghungjen.github.io/ # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+
+# Sass settings
+sass:
+  style: compressed
+
+# Theme settings
+theme_mode: markdown # choices are: 'dark', 'standard', 'markdown'
+
+# Customizations
+your_name: Michael Wang
+email: hung-jen_wang@brown.edu
+
+navigation:
+  - text: Home
+    url: /
+  - text: Experiences
+    url: /experiences
+  - text: Projects
+    url: /projects
+
+projects:
+  - name: Forest Segmentation
+    description:
+    link: https://github.com/sobolevn/ecto_autoslug_field
+    image: images/seg.png
+  - name: Package Identifier
+    description:
+    link: https://github.com/sobolevn/django-split-settings
+    image: images/package.png
+  - name: TelePhoto
+    description:
+    link: https://devpost.com/software/telephoto
+    image: images/galaxy.png
+  - name: K9db Visualizer
+    description:
+    link: https://github.com/wanghungjen/K9db-Visualizer
+    image: images/k.png
+
+social:
+  - service: github
+    username: LinkedIn
+    link: https://www.linkedin.com/in/hungjenwang/
