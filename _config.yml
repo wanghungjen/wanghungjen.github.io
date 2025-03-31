@@ -36,12 +36,12 @@ navigation:
     url: /projects
 
 projects:
-  - name: Personal Website
-    link: https://github.com/wanghungjen/wanghungjen.github.io
-    image: images/pw.png
   - name: Color Generator
     link: https://github.com/wanghungjen/ColorGen
     image: images/color.png
+  - name: Personal Website
+    link: https://github.com/wanghungjen/wanghungjen.github.io
+    image: images/pw.png
   # - name: TelePhoto
   #   description:
   #   link: https://devpost.com/software/telephoto
