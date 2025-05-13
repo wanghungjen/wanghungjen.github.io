@@ -8,7 +8,7 @@
 # Site settings
 title: Michael
 description: > # this means to ignore newlines until "baseurl:"
-  Last Updated: April 12, 2025
+  Last Updated: May 13, 2025
 repository: https://github.com/wanghungjen/wanghungjen.github.io
 baseurl: # the subpath of your site, e.g. /blog
 url: https://wanghungjen.github.io/ # the base hostname & protocol for your site
@@ -34,8 +34,13 @@ navigation:
     url: /experiences
   - text: Projects
     url: /projects
+  - text: Research
+    url: /research
 
 projects:
+  - name: Package Identifier
+    link: https://github.com/wanghungjen/Package-Identifier
+    image: images/box.png
   - name: Color Generator
     link: https://github.com/wanghungjen/ColorGen
     image: images/color.png
