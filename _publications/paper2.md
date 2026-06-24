@@ -3,7 +3,7 @@ title: "Time is of the Essence: Why Decision-Time Planning Costs Matter"
 collection: publications
 category: conferences
 permalink: /publication/thinker
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: 'Explored how decision-time planning costs influence reinforcement learning performance, highlighting when additional computation is worth the tradeoff.'
 date: 2024-06-04
 venue: 'Finding the Frame: An RLC Workshop for Examining Conceptual Frameworks'
 paperurl: 'https://wanghungjen.github.io/files/thinker.pdf'
